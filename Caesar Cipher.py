@@ -1,7 +1,7 @@
 # Caesar Cipher 
 
 ''' The basic principle applied is to shift the letters of the message by
-    the specific key provided by the user to encrypt ans also decrypt it .  '''
+    the specific key provided by the user to encrypt and also to decrypt it .  '''
 
 print('The program was coded by Akshat Upadhyay\n\n')
 MAX_KEY_SIZE = 26
